@@ -1,0 +1,16 @@
+# VPS Check Online Config
+# 配置方法
+# 若需要代理，则填写ProxyIP/ProxyPort字段 若不需要代理，字段留空。
+# ProxyIP填写IP地址，ProxyPort填写端口号。
+# 不需要使用代理时，将main.py中的network.proxy.type设置为0
+
+#代理IP
+ProxyIP: 
+#代理端口 
+ProxyPort: 
+#需要检测的VPS后台登陆地址信息
+VPS1:
+  - 后台1
+  - 访问地址 例如 http://www.xxx.com:1234/
+  - 用户名
+  - 密码

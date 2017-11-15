@@ -1,0 +1,282 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npAdobeAAMDetect32.dll|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+3.0.0.0|$
+1477363868000|0|0|0|$
+Creative Cloud Desktop Plugin.v_3_0_0_0|$
+AdobeAAMDetect|$
+1
+0|application/x-adobeaamdetect|AdobeAAMDetect||$
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Air\nppdf32.dll|$
+15.23.20053.15062|$
+1482516666000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 15.23.20053|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.32.7\npGoogleUpdate3.dll|$
+1.3.32.7|$
+1481974556415|0|0|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+nppl3260.dll|$
+C:\Program Files (x86)\Pure Codec\Real Player\browser\plugins\nppl3260.dll|$
+6.0.12.450|$
+1266256800000|0|0|0|$
+RealPlayer(tm) LiveConnect-Enabled Plug-In|$
+RealPlayer(tm) G2 LiveConnect-Enabled Plug-In (32-bit) |$
+1
+0|audio/x-pn-realaudio-plugin|RealPlayer(tm) as Plug-in|rpm|$
+nprpjplug.dll|$
+C:\Program Files (x86)\Pure Codec\Real Player\browser\plugins\nprpjplug.dll|$
+6.0.12.448|$
+1266256800000|0|0|0|$
+6.0.12.448|$
+RealPlayer Version Plugin|$
+1
+0|application/vnd.rn-realplayer-javascript|RealPlayer Version Plugin|rpj|$
+NPSPWRAP.DLL|$
+C:\Program Files (x86)\Microsoft Office\root\Office16\NPSPWRAP.DLL|$
+16.0.7830.1013|$
+1488758119934|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office 2016|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+npMeetingJoinPluginOC.dll|$
+C:\Program Files (x86)\Microsoft Office\root\VFS\ProgramFilesX86\Mozilla Firefox\plugins\npMeetingJoinPluginOC.dll|$
+16.0.7830.1013|$
+1488758038982|0|0|0|$
+The plugin allows you to have a better experience with Microsoft Lync|$
+Microsoft Office 2016|$
+1
+0|application/vnd.microsoft.communicator.ocsmeeting|Lync Plug-in for Firefox||$
+npAssistComm.dll|$
+C:\Program Files\ICBCEbankTools\ICBCSetupIntegration\npAssistComm.dll|$
+1.0.0.1|$
+1387284070000|0|0|0|$
+npAssistComm Dynamic Link Library|$
+npAssistComm Dynamic Link Library|$
+1
+0|application/x-npassistcomm-plugin|||$
+npClCache.dll|$
+C:\Program Files (x86)\ICBCEbankTools\FirefoxPlugins\npClCache.dll|$
+1.0.0.2|$
+1406598790000|0|0|0|$
+icbc_ms_npClCache_1.0.0.2|$
+clear cache plugin for fsi|$
+1
+0|application/x-npclcache-plugin||rts|$
+npClientBinding.dll|$
+C:\Program Files (x86)\ICBCEbankTools\FirefoxPlugins\npClientBinding.dll|$
+1.0.0.2|$
+1406598790000|0|0|0|$
+icbc_ms_npClientBinding_1.0.0.2|$
+client binding plugin for fsi|$
+1
+0|application/x-icbc-clientbinding|ClientBinding|rts|$
+npFullScreen.dll|$
+C:\Program Files (x86)\ICBCEbankTools\FirefoxPlugins\npFullScreen.dll|$
+1.0.0.2|$
+1406598790000|0|0|0|$
+icbc_ms_npFullScreen_1.0.0.2|$
+full screen plugin for fsi|$
+1
+0|application/x-npfullscreen-plugin||rts|$
+npsubmit.dll|$
+C:\Program Files (x86)\ICBCEbankTools\FirefoxPlugins\npsubmit.dll|$
+1.0.0.9|$
+1456285360000|0|0|0|$
+icbc_ms_npsubmit_1.0.0.9|$
+submit plugin for fsi|$
+1
+0|application/x-icbc-plugin-submit|npsubmit|rts|$
+npxxin.dll|$
+C:\Program Files (x86)\ICBCEbankTools\FirefoxPlugins\npxxin.dll|$
+1.0.0.12|$
+1456900320000|0|0|0|$
+icbc_ms_npxxin_1.0.0.12|$
+npxxin input plugin for fsi|$
+1
+0|application/x-icbcnpxxin-plugin-input|npxxin|rts|$
+npChromeClientBinding.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCChromeExtension\npChromeClientBinding.dll|$
+1.0.0.0|$
+1470646318000|0|0|0|$
+icbc_chrome_npclientbinding_1.0.0.0|$
+client binding plugin for fsi|$
+1
+0|application/x-icbc-plugin-chrome-npclientbinding|npChromeClientBinding|rts|$
+npChromeFullScreen.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCChromeExtension\npChromeFullScreen.dll|$
+1.0.0.1|$
+1470646318000|0|0|0|$
+icbc_chrome_npfullscreen_1.0.0.1|$
+full screen plugin for fsi|$
+1
+0|application/x-icbc-plugin-chrome-npfullscreen||rts|$
+npChromeSubmit.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCChromeExtension\npChromeSubmit.dll|$
+1.0.0.3|$
+1470646320000|0|0|0|$
+icbc_chrome_npsubmit_1.0.0.3|$
+submit plugin for fsi|$
+1
+0|application/x-icbc-plugin-chrome-npsubmit|npChromeSubmit|rts|$
+npChromeXXin.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCChromeExtension\npChromeXXin.dll|$
+1.0.0.4|$
+1470646320000|0|0|0|$
+icbc_chrome_npxxin_1.0.0.4|$
+npxxin input plugin for fsi|$
+1
+0|application/x-icbc-plugin-chrome-npxxin-input|npChromeXXin|rts|$
+npicbc_infosec_netsign.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCEbankPlugin\npicbc_infosec_netsign.dll|$
+1.0.44.11|$
+1365651110000|0|0|0|$
+NetSign Plugin|$
+npicbc_infosec_netsign.dll|$
+1
+0|application/npicbc_infosec_netsign|npICBCNetSign|rts|$
+npicbc_tdr_usbkey.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCEbankPlugin\npicbc_tdr_usbkey.dll|$
+1.0.0.22|$
+1388112618000|0|0|0|$
+Tendyron Corporation for Industrial and Commercial Bank of China|$
+application/npicbc_tdr_usbkey|$
+1
+0|application/npicbc_tdr_usbkey|application/npicbc_tdr_usbkey||$
+npicbc_infosec_certenroll.dll|$
+C:\Program Files (x86)\ICBCEbankTools\ICBCEbankPlugin\npicbc_infosec_certenroll.dll|$
+1.0.7.6|$
+1393405358000|0|0|0|$
+npicbc infosec certenroll|$
+npicbc_infosec_certenroll.dll|$
+1
+0|application/npicbc_infosec_certenroll|||$
+npgeplugin.dll|$
+C:\Program Files (x86)\Google\Google Earth\plugin\npgeplugin.dll|$
+7.1.5.1557|$
+1432138268000|0|0|0|$
+GEPlugin|$
+Google Earth Plugin|$
+1
+0|application/geplugin|GEPlugin||$
+npSecEditCtl.BOC.x86.dll|$
+C:\WINDOWS\system32\npSecEditCtl.BOC.x86.dll|$
+3.0.1.2|$
+1461838242000|0|0|0|$
+CFCA SecEditCtl 1.0 for Firefox, Chrome, Safari and Opera|$
+CFCA npSecEditCtl.BOC.x86 1.0|$
+1
+0|application/npseceditctl.boc.x86|CFCA SecEditCtl 1.0|dll|$
+npYunWebDetect.dll|$
+C:\Users\Derek.S\AppData\Roaming\baidu\BaiduNetdisk\npYunWebDetect.dll|$
+5.5.4.1|$
+1487932064000|0|0|0|$
+YunWebDetect|$
+BaiduYunGuanjia Application|$
+1
+0|application/bd-npyunwebdetect-plugin|||$
+npaliedit.dll|$
+C:\Program Files (x86)\alipay\aliedit\4.0.0.101\npaliedit.dll|$
+1.3.0.2|$
+1427163512000|0|0|0|$
+npaliedit|$
+Alipay security control|$
+1
+0|application/aliedit|npaliedit| |$
+npAliSecCtrl.dll|$
+C:\Program Files (x86)\alipay\aliedit\4.0.0.101\npAliSecCtrl.dll|$
+2.0.2.0|$
+1427163512000|0|0|0|$
+Alipay Security Control|$
+Alipay Security Control 3|$
+1
+0|application/x-alisecctrl-plugin|npAliSecCtrl.dll|*|$
+NPSWF32_25_0_0_127.dll|$
+C:\WINDOWS\SysWoW64\Macromed\Flash\NPSWF32_25_0_0_127.dll|$
+25.0.0.127|$
+1489546412428|0|0|0|$
+Shockwave Flash 25.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npxunlei1.0.0.2.dll|$
+C:\Program Files (x86)\Thunder Network\Thunder\Data\npxunlei1.0.0.2.dll|$
+1.0.0.2|$
+1487596209548|0|0|0|$
+Xunlei scriptability Plugin|$
+XunLei Plugin|$
+1
+0|application/np_xunlei_plugin|np_xunlei_plugin|*|$
+npxluser2.0.2.3.dll|$
+C:\Program Files (x86)\Common Files\Thunder Network\UserAgent\npxluser2.0.2.3.dll|$
+2.0.2.3|$
+1483953383050|0|0|0|$
+Xunlei User scriptability Plugin,version= 2.0.2.3|$
+XunLei User Plugin|$
+1
+0|application/npxluser_plugin|||$
+npalicdo.dll|$
+C:\Users\Derek.S\AppData\Roaming\alipay\cf\npalicdo.dll|$
+1.0.0.4|$
+1409716928000|0|0|0|$
+npalicdo|$
+npalicdo plugin|$
+1
+0|application/npalicdo|npalicdo|dll|$
+npAliSSOLogin.dll|$
+C:\Program Files (x86)\AliWangWang\9.07.03C\npAliSSOLogin.dll|$
+1.0.0.2|$
+1488938223000|0|0|0|$
+npAliSSOLogin Plugin|$
+AliSSOLogin plugin|$
+1
+0|application/npalissologin|AliSSOLogin|AliSSOLogin|$
+npwangwang.dll|$
+C:\Program Files (x86)\AliWangWang\9.07.03C\npwangwang.dll|$
+1.0.0.6|$
+1488938223000|0|0|0|$
+npwangwang|$
+AliWangWang Plug-In For Firefox and Netscape|$
+1
+0|application/ww-plugin|npwangwang|dll|$
+npcoba32.dll|$
+C:\Users\Derek.S\AppData\Roaming\Mozilla\Firefox\Profiles\p2x8lf43.laoxietext\extensions\coba@mozilla.com.cn\plugins\npcoba32.dll|$
+1.0.0.1|$
+1491878376506|0|0|1|$
+COBA Plugin DLL|$
+China Online Banking Assistant|$
+1
+0|application/coba||*|$
+
+[INVALID]
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1477363868000|$
+C:\WINDOWS\system32\NPSM.dll|$
+1489870719550|$
+C:\WINDOWS\system32\npmproxy.dll|$
+1489870730833|$
+C:\WINDOWS\system32\NPSMDesktopProvider.dll|$
+1489870738021|$
